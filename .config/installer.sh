@@ -3,8 +3,8 @@
 # NOTE: Heavily inspired by get-stack.hs script for installing stack.
 # https://raw.githubusercontent.com/commercialhaskell/stack/stable/etc/scripts/get-stack.sh
 
-HOME_LOCAL_BIN="$HOME/$REPL_SLUG/.config/bin"
-HOME_LOCAL_SHARE="$HOME/$REPL_SLUG/.config/share"
+HOME_LOCAL_BIN="$HOME/.config/bin"
+HOME_LOCAL_SHARE="$HOME/.config/share"
 WASP_TEMP_DIR=
 VERSION_ARG=
 
